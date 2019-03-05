@@ -1,1 +1,7 @@
-public static void main
+public static void main{
+  String[] colors = {"Red", "Blue", "Green", "Purple", "Orange", "Yellow"};
+}
+public static boolean valid(){
+  boolean character = false;
+  
+}
